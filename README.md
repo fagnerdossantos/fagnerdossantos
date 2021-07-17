@@ -7,7 +7,7 @@
 </ul>
 <h2><span style="color: #000000;">Em Qual linguagens programo?</span></h2>
 <ul>
-<li><span style="color: #000000;">Programo em Python, Dart e um pouco de C++</span></li>
+<li><span style="color: #000000;">Programo em Python e Dart</span></li>
 </ul> <span style="color: #000000;"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=fagnerdossantos" alt="" width="495" height="170" /></span></li>
 </ul>
  <br>
