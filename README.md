@@ -12,7 +12,7 @@
 Meu nome é **Fagner Dos Santos** <br/>
 Estudante de **Análise e desenvolvimento de sistemas**. <br/>
 Apaixonado por Inteligência Artificial e Desenvolvimento Mobile.
- > Habilidades em **Python e Dart/Flutter**
+ > Habilidades em **Dart/Flutter e Python**
 
  ### Estatísticas de uso dos últimos 7 dias
 <div>
@@ -20,7 +20,7 @@ Apaixonado por Inteligência Artificial e Desenvolvimento Mobile.
 <img src="https://wakatime.com/share/@fagnerdossantos/335e3c27-a9e6-4d0b-9f9d-02efb952e7cd.svg" width="600" height="300" />
 </div>
 
-## Aprendendo no momento
+## Melhorando o conhecimento em
 HTML, CSS e JavaScript
 
 <div>
