@@ -1,5 +1,9 @@
 # Olá, Seja bem-vindo!
 
+### Ir para o **<a src="https://github.com/fagnerdossantos/fagnerdossantos/blob/main/README.pt.md"> ENGLISH README</a>**
+
+<br>
+
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="60" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="60" width="60">
