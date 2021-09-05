@@ -1,4 +1,4 @@
-# Hello, Welcome!
+# Olá, Seja bem-vindo!
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="60" width="60">
@@ -7,20 +7,20 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="60" width="60">
 </div>
  
-## Who am I
+## Quem sou
 
-I'm **Fagner Dos Santos** <br/>
-I'm a **System analysis and development** student . <br/>
-I'm in love with Artificial Intelligence and Mobile development.
- > Skills in **Dart/Flutter and Python**
+Meu nome é **Fagner Dos Santos** <br/>
+Estudante de **Análise e desenvolvimento de sistemas**. <br/>
+Apaixonado por Inteligência Artificial e Desenvolvimento Mobile.
+ > Habilidades em **Dart/Flutter e Python**
 
- ### Last 7 days usage statistics
+ ### Estatísticas de uso dos últimos 7 dias
 <div>
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fagnerdossantos" alt="" width="400" height="400" /> -->
 <img src="https://wakatime.com/share/@fagnerdossantos/335e3c27-a9e6-4d0b-9f9d-02efb952e7cd.svg" width="600" height="300" />
 </div>
 
-## Improving skills in
+## Melhorando o conhecimento em
 C++, MySQL e Docker
 
 <div>
@@ -30,6 +30,6 @@ C++, MySQL e Docker
  
 </div>
 
-## GitHub Stats
+## Estatísticas do Github
 <p>&nbsp;</p>
 <p><strong><img src="https://github-readme-stats.vercel.app/api?username=fagnerdossantos&amp;show_icons=true&amp;theme=tokyonight" alt="" /></strong></p>
