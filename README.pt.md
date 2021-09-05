@@ -1,6 +1,6 @@
 # Olá, Seja bem-vindo!
 
-### Ir para o **<a href="https://github.com/fagnerdossantos/fagnerdossantos/blob/main/README.pt.md"> README IN ENGLISH-US </a>**
+### Ir para o **<a href="https://github.com/fagnerdossantos/"> README IN ENGLISH-US </a>**
 
 <br>
 
