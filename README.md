@@ -1,4 +1,4 @@
-# Hello, Welcome!
+# Hello and Welcome!
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="60" width="60">
