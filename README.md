@@ -5,18 +5,26 @@
 <br>
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="60" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="60" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="60" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" />
 </div>
  
 ## Who am I
 
 I'm **Fagner Dos Santos** <br/>
 I'm a **System analysis and development** student . <br/>
-I'm in love with Artificial Intelligence and Mobile development.
- > Skills in **Dart/Flutter and Python**
+Improving my FullStack skills.
+
+## Front-end Skills
+HTML / CSS / JavaScript
+
+## Back-end Skills
+Node and C++
+
+
 
  ### Last 7 days usage statistics
 <div>
@@ -24,13 +32,12 @@ I'm in love with Artificial Intelligence and Mobile development.
 <img src="https://wakatime.com/share/@fagnerdossantos/335e3c27-a9e6-4d0b-9f9d-02efb952e7cd.svg" width="600" height="300" />
 </div>
 
-## Improving skills in
-C++, MySQL e Docker
+## Some Knowledge
+Python ----- Dart / Flutter
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="60" width="60">
  
 </div>
 
