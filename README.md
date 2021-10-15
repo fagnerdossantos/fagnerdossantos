@@ -16,15 +16,13 @@
 
 I'm **Fagner Dos Santos** <br/>
 I'm a **System analysis and development** student . <br/>
-Improving my FullStack skills.
+Improving my **FullStack** skills.
 
 ## Front-end Skills
 HTML / CSS / JavaScript
 
 ## Back-end Skills
 Node and C++
-
-
 
  ### Last 7 days usage statistics
 <div>
