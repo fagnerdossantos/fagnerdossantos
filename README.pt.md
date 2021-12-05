@@ -5,25 +5,21 @@
 <br>
 
 <div>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" width="60" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" width="60" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="60" width="60">
 </div>
  
 ## Quem sou
 
 Meu nome é **Fagner Dos Santos** <br/>
 Estudante de **Análise e desenvolvimento de sistemas**. <br/>
-Melhorando minhas habilidades **FullStack**
-
-## Habilidades Front-end
-HTML / CSS / JavaScript
+Melhorando minhas habilidades **Back-end e Mobile**
 
 ## Habilidades Back-end
-Node e C++
+**Java**
+
+## Mobile
+**Dart / Flutter**
 
  ### Estatísticas de uso dos últimos 7 dias
 <div>
@@ -32,12 +28,11 @@ Node e C++
 </div>
 
 ## Algum Conhecimento
-Python ----- Dart / Flutter
+Python ----- C++
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" width="60">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="60" width="60">
- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" /> 
 </div>
 
 ## Estatísticas do Github
