@@ -28,4 +28,4 @@ Back-end and Mobile developer. Currently improving my abilities in Java and Flut
 
 ## :trophy: MY GITHUB STATS
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fagnerdossantos&theme=midnight-purple&hide=Swift,Kotlin,Objective-C,HTML)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fagnerdossantos&theme=midnight-purple&hide=Swift,Objective-C,HTML)
