@@ -1,23 +1,10 @@
 # Welcome to *Fagner Dos Santos* profile :wink:
 
-Back-end and Mobile developer. Currently improving my abilities in Java and Flutter.
+Mobile developer. Currently improving my abilities in Flutter.
 <br>
 :mortar_board: I have a degree in **software Analysis and Development.**
 
-
-## Languages I use
-
-<br>
-
-**Back-end**
-
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" />
-</div>
-
-<br>
-
-**Mobile**
+## Mobile
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="60"/>
