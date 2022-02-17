@@ -16,3 +16,6 @@ Mobile developer. Currently improving my abilities in Flutter.
 ## :trophy: MY GITHUB STATS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fagnerdossantos&theme=midnight-purple&hide=Swift,Objective-C,HTML)
+
+## Social Media
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="fagnerdossantos" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/fagnerdossantos?trk=profile-badge">Fagner Dos Santos</a></div>
