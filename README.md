@@ -19,6 +19,6 @@ Mobile developer. Currently improving my abilities in Flutter.
 
 <div align="center">
   <a href="https://github.com/fagnerdossantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fagnerdossantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnerdossantos&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fagnerdossantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnerdossantos&layout=compact&langs_count=7&theme=dracula" height="150px"/>
 </div>
