@@ -4,6 +4,8 @@ Mobile developer. Currently improving my abilities in Flutter.
 <br>
 :mortar_board: I have a degree in **software Analysis and Development.**
 
+<a href="https://www.linkedin.com/in/fagnerdossantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 ## Mobile
 
 <div>
@@ -15,4 +17,8 @@ Mobile developer. Currently improving my abilities in Flutter.
 
 ## :trophy: MY GITHUB STATS
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fagnerdossantos&theme=midnight-purple&hide=Swift,Objective-C,HTML)
+<div align="center">
+  <a href="https://github.com/fagnerdossantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fagnerdossantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnerdossantos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
