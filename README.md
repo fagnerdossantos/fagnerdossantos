@@ -1,8 +1,10 @@
 # Welcome to *Fagner Dos Santos* profile :wink:
 
-Mobile developer. Currently improving my abilities in Flutter.
+:smiley: Hello, I am Fagner! <br>
+:mortar_board: Graduated in **Systems Analysis and Development**. <br>
+:seedling: Passionate about the world of technology and its tools. <br>
+:computer: Python and Dart / Flutter programmer.
 <br>
-:mortar_board: I have a degree in **software Analysis and Development.**
 
 <a href="https://www.linkedin.com/in/fagnerdossantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
