@@ -8,20 +8,27 @@
 
 <a href="https://www.linkedin.com/in/fagnerdossantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-## Mobile
+## Skills
 
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
 <br>
 
 ## :trophy: MY GITHUB STATS
 
-<div align="center">
-  <a href="https://github.com/fagnerdossantos">
-  <img src="https://github-readme-stats.vercel.app/api?username=fagnerdossantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnerdossantos&layout=compact&langs_count=7&theme=dracula" height="150px"/>
-</div>
+<a href="https://github.com/fagnerdossantos/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fagnerdossantos&show_icons=true&theme=radical" height="150"/>
+</a>
+<a href="https://github.com/fagnerdossantos/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnerdossantos&layout=compact" height="150"/> <br><br>
+</a>
+
+<a href="https://github.com/fagnerdossantos/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fagnerdossantos&layout=compact&langs_count=3" height="150"/>
+</a>
