@@ -1,5 +1,3 @@
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
-
 # Welcome to *Fagner Dos Santos* profile :wink:
 
 :smiley: Hello, I am Fagner! <br>
