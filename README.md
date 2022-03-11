@@ -30,5 +30,5 @@
 </a>
 
 <a href="https://github.com/fagnerdossantos/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fagnerdossantos&layout=demo&langs_count=3" height="150"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fagnerdossantos&layout=compact&langs_count=3" height="150"/>
 </a>
