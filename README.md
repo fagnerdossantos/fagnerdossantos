@@ -1,5 +1,8 @@
 # Welcome to *Fagner Dos Santos* profile :wink:
 
+> I'm redesigning my entire GitHub projects! I deleted it all, and I'm programming it again. So stay tuned  to see the final result! <br>
+> **You're not gonna regret!**
+
 :smiley: Hello, I am Fagner! <br>
 :mortar_board: Graduated in **Systems Analysis and Development**. <br>
 :seedling: Passionate about the world of technology and its tools. <br>
