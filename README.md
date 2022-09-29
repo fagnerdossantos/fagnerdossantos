@@ -6,7 +6,7 @@
 :smiley: Hello, I am Fagner! <br>
 :mortar_board: Graduated in **Systems Analysis and Development**. <br>
 :seedling: Passionate about the world of technology and its tools. <br>
-:computer: Python and Dart / Flutter programmer. ❤️
+:computer: **Python and Dart / Flutter** programmer. ❤️
 <br>
 
 <a href="https://www.linkedin.com/in/fagnerdossantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
