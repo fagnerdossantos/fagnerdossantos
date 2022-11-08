@@ -1,6 +1,6 @@
 # Welcome to *Fagner Dos Santos* profile :wink:
 
-> I'm redesigning my entire GitHub projects! I deleted it all, and I'm programming it again. So stay tuned  to see the final result! <br>
+> I'm redesigning my GitHub projects! Stay tuned to see future projects :smiley: <br>
 > **You're not gonna regret!**
 
 :smiley: Hello, I am Fagner! <br>
