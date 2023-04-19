@@ -5,7 +5,7 @@
 :smiley: Hello, I am Fagner! <br>
 :mortar_board: Graduated in **Systems Analysis and Development**. <br>
 :seedling: Passionate about the world of technology and its tools. <br>
-:computer: **Python and Dart / Flutter** programmer. ❤️
+:computer: **Flutter and Kotlin** programmer. ❤️
 <br>
 
 ### Main skills:
