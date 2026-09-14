@@ -1,4 +1,4 @@
-> Restructuring my Github projects. Stay tuned! **May be some broken links**. 
+> Restructuring my GitHub projects. Stay tuned! There may be some broken links.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
@@ -13,16 +13,16 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Graduated in **Systems Analysis and Development** (ADS) & currently studying **Computer Science**.
-* 📱 **Mobile Specialist:** Focused on building high-performance, resilient mobile applications using **Flutter & Dart** with **Clean Architecture**, **BLoC (Event-Driven)**, and **Offline-First** storage.
-* 🦀 **Systems & Backend:** Hands-on experience developing distributed backend services in **pure Rust** (Axum, SQLx, Redis, Tokio), focusing on sub-10ms latency and high-throughput concurrency.
-* 🛠️ **Open Source & Tooling:** Passionate about developer experience (DevTools), AST code generation, and automated testing (TDD).
+* 🎓 Graduated in **Systems Analysis and Development** (ADS) and currently studying **Computer Science**.
+* 📱 **Mobile Specialist:** Focused on building high-performance, resilient mobile applications using **Flutter and Dart** with **Clean Architecture**, **BLoC (Event-Driven)**, and **Offline-First** storage.
+* 🦀 **Systems and Backend:** Hands-on experience developing distributed backend services in **pure Rust** (Axum, SQLx, Redis, Tokio), focusing on sub-10ms latency and high-throughput concurrency.
+* 🛠️ **Open Source and Tooling:** Passionate about developer experience (DevTools), AST code generation, and automated testing (TDD).
 
 ---
 
 ## 🚀 Featured Engineering Projects
 
-### 🛒 [Econopreço Mobile & Backend V2](https://github.com/fagnerdossantos/econopreco_mobile)
+### 🛒 [Econopreco Mobile and Backend V2](https://github.com/fagnerdossantos/econopreco_mobile)
 > **Real-time supermarket price intelligence and comparative grocery shopping platform for Brazilian retail.**
 
 * **Mobile (Flutter):** Offline-first architecture powered by **ObjectBox** (native C-bindings for sub-millisecond local queries), state management with **BLoC**, silent JWT session rotation via **Dio QueuedInterceptors**, and hardware-backed credential encryption (**SecureStorage**).
@@ -32,12 +32,12 @@
 ---
 
 ### ⚡ [FlutterGenesis — The "Spring Initializr" for Flutter](https://github.com/fagnerdossantos/flutter_genesis)
-> **High-performance, platform-agnostic boilerplate and scaffolding engine for Dart & Flutter.**
+> **High-performance, platform-agnostic boilerplate and scaffolding engine for Dart and Flutter.**
 
 * **Pure Dart Core:** 100% independent of `dart:io` and `dart:html`, allowing it to run natively in CLI and inside the browser via **WebAssembly / Flutter Web**.
 * **In-Memory Virtual File System (VFS):** Template expansion, boolean condition evaluation, and dynamic pub.dev package injection running entirely in RAM with zero-disk ZIP generation.
 * **Test Coverage:** 65/65 unit and integration tests passing with 0 linter issues.
-* 🌐 **Live Web Demo:** [Try FlutterGenesis directly in your browser](https://seu-usuario.github.io/flutter_genesis_web)
+* 🌐 **Live Web Demo:** [Try FlutterGenesis directly in your browser](https://fagnerdossantos.github.io/flutter_genesis_web)
 
 ---
 
@@ -79,4 +79,3 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
-
